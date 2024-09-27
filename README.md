@@ -51,4 +51,4 @@ Trabalhar com IA para criar algo que pareça tão natural quanto uma produção 
 
 [Cidade Futurista Criada com IA](https://gamma.app/docs/Neotropolis-A-Cidade-do-Futuro-g3lkz11793poa0w)
 
-[![Veja o Projeto Neotrópolis]([https://example.com/path-to-your-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-premium%2Fuma-cidade-com-uma-cidade-futurista-e-uma-cidade-futurista_46392475.htm&psig=AOvVaw2bcBh-xlx4LAlI0SORTw1r&ust=1727558237045000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCry4-G5IgDFQAAAAAdAAAAABAE))](https://gamma.app/docs/Neotropolis-A-Cidade-do-Futuro-g3lkz11793poa0w)
+[![Veja o Projeto Neotrópolis](https://img.freepik.com/fotos-premium/uma-cidade-com-uma-cidade-futurista-e-uma-cidade-futurista_901003-32028.jpg?w=826)](https://gamma.app/docs/Neotropolis-A-Cidade-do-Futuro-g3lkz11793poa0w)
