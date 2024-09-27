@@ -53,7 +53,7 @@ Os resultados foram fascinantes! A mistura de textos detalhados e imagens gerada
 *"Nas ruas de Neotrópolis, o zumbido suave dos drones substituiu o som dos motores a combustão. Pedestres andam por calçadas que brilham suavemente sob seus pés, enquanto carros autônomos flutuam pelas avenidas. Tudo é monitorado por uma IA central que garante que a cidade opere como uma sinfonia perfeitamente orquestrada..."*
 
 ### Imagem Criada:
-![Cidade Futurista Criada com IA](./exemplos/assets/5ed7b392-3f77-43d1-9a7e-cab6fc2474da.webp)
+![Cidade Futurista Criada com IA](./assets/5ed7b392-3f77-43d1-9a7e-cab6fc2474da.webp)
 
 ---
 
